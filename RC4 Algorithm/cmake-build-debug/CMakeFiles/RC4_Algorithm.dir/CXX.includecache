@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/farida/Documents/gitKraken repositories/Encription Algorithms/Encription Algorithms/RC4 Algorithm/cmake-build-debug/RC4_Algorithm_autogen/mocs_compilation.cpp
+
+/home/farida/Documents/gitKraken repositories/Encription Algorithms/Encription Algorithms/RC4 Algorithm/main.cpp
+iostream
+-
+rc4.h
+/home/farida/Documents/gitKraken repositories/Encription Algorithms/Encription Algorithms/RC4 Algorithm/rc4.h
+iostream
+-
+string
+-
+malloc.h
+-
+string.h
+-
+
+/home/farida/Documents/gitKraken repositories/Encription Algorithms/Encription Algorithms/RC4 Algorithm/rc4.cpp
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+rc4.h
+/home/farida/Documents/gitKraken repositories/Encription Algorithms/Encription Algorithms/RC4 Algorithm/rc4.h
+iostream
+-
+
+/home/farida/Documents/gitKraken repositories/Encription Algorithms/Encription Algorithms/RC4 Algorithm/rc4.h
+

@@ -1,0 +1,4 @@
+/home/farida/Documents/gitKraken repositories/Encription Algorithms/Encription Algorithms/RC4 Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/farida/Documents/gitKraken repositories/Encription Algorithms/Encription Algorithms/RC4 Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/farida/Documents/gitKraken repositories/Encription Algorithms/Encription Algorithms/RC4 Algorithm/cmake-build-debug/CMakeFiles/RC4_Algorithm.dir
+/home/farida/Documents/gitKraken repositories/Encription Algorithms/Encription Algorithms/RC4 Algorithm/cmake-build-debug/CMakeFiles/RC4_Algorithm_autogen.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SHA256_Algorithm.dir/main.cpp.o  -o SHA256_Algorithm 
